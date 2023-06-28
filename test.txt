@@ -1,0 +1,7 @@
+This is some text
+first_name = 'Iryna'
+second_name = 'Lititanskas'
+full_name = first_name + ' '+ second_name
+print ("Hello, " + full_name )
+
+
